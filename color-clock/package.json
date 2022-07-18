@@ -1,0 +1,17 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "changing the color of a clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "color is changing ",
+    "start": "serve"
+  },
+  
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "serve": "^14.0.1"
+  }
+}
